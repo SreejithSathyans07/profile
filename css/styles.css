@@ -1,0 +1,263 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #222831;
+}
+#intro-div{
+  padding: 2% 1% 1% 5%;
+}
+
+
+#navigation-bar {
+  background-color: #222831;
+  color: white;
+}
+.text-love{
+  color: #eb4559;
+}
+.text-developer{
+  color:#f4e04d;
+}
+.text-sreejith{
+  color: #ef962d;
+  font-size: 4rem;
+}
+.hr-division {
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 500px;
+  color: #fff;
+  margin:0 auto 0 0;
+  /* margin: 50px auto 50px auto; */
+}
+
+.profile-photo {
+  width: 40%;
+  margin: 0 auto 0 auto;
+  border-radius: 100%;
+  margin: 5%;
+}
+
+.name-text {
+  font-family: 'Sacramento', cursive;
+  font-size: 48px;
+  margin-bottom: 30px;
+  color: #fff;
+}
+
+.div-profile-pic {
+  text-align: center;
+}
+
+.developer-slide {
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  text-align: center;
+  line-height: 1;
+  height: 250px;
+  padding-top: 3%;
+  color: #fff;
+  /* margin: 5% 0; */
+  position: relative;
+}
+
+.coder-slide {
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  text-align: center;
+  color: #fff;
+  line-height: 1;
+  height: 250px;
+  padding-top: 3%;
+  /* margin: 5% 0; */
+  position: relative;
+}
+
+.slides {
+  margin-top: 5%;
+}
+
+#about-me {
+  padding: 2% 5% 2% 5%;
+}
+#profession{
+    padding: 2% 5% 2% 5%;
+    color: #fff;
+}
+#Contact-me{
+  padding: 2% 5% 0 5%;
+  color: #fff;
+}
+#hobbies{
+  padding: 2% 5% 2% 5%;
+}
+.about-me-box {
+  background-color: #30475e;
+  color: #fff;
+  text-align: center;
+  border-radius: 10px;
+  padding: 5%;
+  margin: 20px 0;
+  font-size: 18px;
+}
+.about-me-box:hover{
+  background-color: #4D5A6D;
+  color: #fff;
+}
+h2 {
+  color: #f4e04d;
+}
+.box-title{
+  font-weight: 500;
+  color: #f4e04d;
+}
+.font-awesome-ico{
+  color: #000;
+  float: right;
+  font-size: 120%;
+}
+.school-box{
+  margin: 20px 0;
+  background-color: #0886FD;
+  border-radius: 10px;
+}
+.school-box:hover{
+  background-color: #0A60B2;
+}
+#education{
+  padding: 2% 5% 2% 5%;
+  color: #fff;
+}
+.hr-division-education{
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 500px;
+  color: #000;
+  margin:0 ;
+  padding: 0;
+}
+.education-div{
+  color: #fff;
+  margin-top: 2%;
+  padding-bottom: 2%;
+  border-radius: 10px;
+}
+.center-align{
+  margin:  auto;
+  text-align: center;
+}
+.Img-school{
+  /* margin-top: 10%; */
+}
+.school-name{
+  font-size: 20px;
+  padding:2% 2% 0 2%;
+  color: #f4e04d;
+}
+.school-description{
+  font-size: 18px;
+  padding: 0 2% 2% 2%;
+  line-height: 2;
+}
+.img-school-png{
+  width: 156px;
+}
+.connect-school{
+  font-size: 2rem;
+  float: right;
+  color: #fff;
+  margin-bottom: 2%;
+}
+
+.hobbie-box{
+  margin-top: 15px;
+  background-color: #30475e;
+  padding: 5%;
+  color: #fff;
+  border-radius: 10px;
+  line-height: 1.7;
+  text-align: center;
+}
+.hobbie-table{
+  margin-top: 10px;
+  color: #fff;
+}
+.hobbie-header{
+    font-size: 1.3rem;
+}
+
+.hobbie-box:hover{
+  background-color: #4D5A6D;
+}
+.tr-img{
+  width: 64px;
+}
+td{
+  margin: 5%;
+}
+.hobbie-icon{
+  float: right;
+  margin-top: 6%;
+  font-size: 80%;
+}
+table{
+  width: 100%;
+  border-radius: 10px;
+}
+.education-table{
+  /* width: 2100%; */
+  color: #fff;
+  font-weight: normal;
+  margin-top: 20px;
+  background-color: #30475e;
+}
+.education-table:hover{
+    background-color: #4D5A6D;
+}
+.yellow-word{
+  /* font-size: 32px; */
+  /* font-family: 'Sacramento', cursive; */
+  color: #f4e04d;
+  padding: 0;
+}
+#profession p{
+  text-align: justify;
+  line-height: 1.9;
+  margin-top:1.5%;
+}
+.profession-box{
+  background-color: #30475e;
+  border-radius: 10px;
+  padding: 2% 1%;
+  margin-top: 2%;
+}
+.profession-box:hover{
+  background-color: #4D5A6D;
+}
+.td-header{
+    color: #f4e04d;
+    font-size: 18px;
+}
+.super-heroes{
+  width: 4%;
+}
+.social-media{
+  font-size: 48px;
+  margin:0 30px;
+}
+.connect-me{
+  padding:2% 0;
+}
+.social-media-first{
+  margin-left: 0;
+}
+.end-hr{
+  background-color: #fff;
+  margin-left: 5%;
+  margin-right: 5%;
+
+}
+.copyright{
+  color: #fff;
+  text-align: center;
+  font-size: 10px;
+}
